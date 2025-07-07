@@ -1,11 +1,8 @@
-## IIT-G | Summer-Analytics
+# IIT-G | Summer-Analytics
 
-```markdown
-## Dynamic Pricing for Urban Parking Lots 🚗💵
+# Dynamic Pricing for Urban Parking Lots 🚗💵
 
-![parking](https://github.com/user-attachments/assets/0ca8e089-a8e7-4be4-a914-6f66a51ef7ae)
-
-
+![parking](https://github.com/user-attachments/assets/46810e4c-4ccf-4ef8-9c11-477c81f6fb60)
 
 An intelligent pricing system that dynamically adjusts parking rates based on real-time demand, competition, and contextual factors to optimize revenue and customer satisfaction.
 
@@ -189,6 +186,4 @@ cd IIT-G-Summer-Analytics
 # Run Jupyter notebook
 jupyter notebook Dynamic_Pricing_for_Urban_Parking_Lots.ipynb
 ```
-
-
 Developed With ❤️ For Smarter Urban Mobility
